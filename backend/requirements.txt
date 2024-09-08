@@ -1,0 +1,14 @@
+#### pip install -r requirements.txt ####
+#### Adding other dependencies for futer
+yt-dlp
+shazamio
+Flask
+psycopg2-binary
+python-dotenv
+Flask-SQLAlchemy
+Flask-Migrate
+discord.py
+Flask-SocketIO
+eventlet
+celery[redis]
+Flask-CORS  # Enables cross-origin resource sharing
